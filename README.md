@@ -1,2 +1,0 @@
-# octanet
-webdevelopment project
